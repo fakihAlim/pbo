@@ -10,6 +10,7 @@ public class HalloDunia {
 
     public static void main(String[] args) {
        System.out.println("Hallo Dunia Satu Keluarga");
+       System.out.println("Coba lagi");
     }
 
 }
